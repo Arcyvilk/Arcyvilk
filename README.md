@@ -1,6 +1,6 @@
 ### Welcome to my lair
 
-I have cookies and a _lot_ of bad Discord bots
+This is a sacred land of cats, cookies and code of questionable quality
 
 ---
 
