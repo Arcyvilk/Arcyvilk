@@ -21,4 +21,4 @@ This is a sacred land of cats, cookies and code of questionable quality
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Arcyvilk.Arcyvilk)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
