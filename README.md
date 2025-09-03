@@ -1,6 +1,6 @@
 ### Welcome to my lair
 
-This is a sacred land of cats, cookies and code of questionable quality
+This is a sacred land of code of questionable quality
 
 ---
 
