@@ -1,6 +1,8 @@
 ### Welcome to my lair
 
-This is a sacred land of code of questionable quality
+100% human-made, ethically sourced code straight from the virgin fields of Eastern Europe.
+
+Quality still questionable.
 
 ---
 
