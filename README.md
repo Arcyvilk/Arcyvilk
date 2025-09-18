@@ -1,8 +1,8 @@
 ### Welcome to my lair
 
-100% human-made, ethically sourced code straight from the virgin fields of Eastern Europe.
+100% human-made, ethically sourced code straight from the virgin fields of Eastern Europe. 
 
-Quality still questionable.
+No artificial intelligence; only genuine stupidity.
 
 ---
 
